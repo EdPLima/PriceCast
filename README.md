@@ -2,7 +2,7 @@
 
 ## 📊 Objetivo do Projeto
 
-O **PriceCast** tem como objetivo entender profundamente as variáveis que influenciam o valor final do leite, por meio de técnicas avançadas de modelagem estatística. Este projeto também visa prever os preços futuros do leite para o ano de **2025**, utilizando poderosos métodos de **Séries Temporais**.
+O **PriceCast** tem como objetivo entender profundamente as variáveis que influenciam o valor preço leite ao produtor, por meio de técnicas de modelagem estatística. E também treinar um modelo de séries temporais para fazer projeção mensal de novos dados.
 
 Com a crescente volatilidade no mercado, entender as flutuações dos preços é fundamental para ajudar os stakeholders a tomarem decisões mais informadas. Este projeto busca não só identificar os fatores determinantes, mas também fornecer previsões confiáveis para o futuro.
 
@@ -25,8 +25,6 @@ O desenvolvimento deste projeto segue as premissas do **CRISP-DM (Cross-Industry
 5. **Avaliação**  
    Após a modelagem, é fundamental avaliar a performance dos modelos. Vamos testar as previsões feitas e comparar com os dados reais, assegurando a acuracidade e confiabilidade das projeções.
 
-6. **Deploy**  
-   Por fim, a solução será implementada para fornecer previsões contínuas dos preços do leite em 2025. A previsão será disponibilizada para os stakeholders de forma acessível, com atualizações periódicas.
 
 ## 🔍 O que será abordado
 
